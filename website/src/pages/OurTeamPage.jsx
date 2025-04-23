@@ -9,7 +9,7 @@ const teams = {
     {
       name: '~Shriyukt Gupta~',
       role: 'Team Lead | AI/ML Developer',
-      image: '/team/shri.jpg',  // Updated image path
+      image: '/team/shriyukt.jpg',  // Corrected image path
       linkedin: 'https://www.linkedin.com/in/shriyukt-gupta-12b665277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
       instagram: 'https://www.instagram.com/shriyuktt?igsh=djNtZHl0cW9oMTNj',
     },
@@ -18,14 +18,14 @@ const teams = {
     {
       name: '~Kritika Sharma~',
       role: 'Hardware Engineer',
-      image: '/team/kritika.jpg',  // Updated image path
+      image: '/team/kritika.jpg',  // Corrected image path
       linkedin: 'https://www.linkedin.com/in/kritika-sharma-geu',
       instagram: 'https://www.instagram.com/kritikabairagi_03/profilecard/?igsh=MWltbXc0djdpY3Y1YQ==',
     },
     {
-      name: '~divya Adhikari~',
+      name: '~Divya Adhikari~',
       role: 'AI/ML and Hardware Developer',
-      image: '/team/divya.jpg',  // Updated image path
+      image: '/team/divya.jpg',  // Corrected image path
       linkedin: 'https://www.linkedin.com/in/divya-adhikari-213269325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
       instagram: 'https://www.instagram.com/divya.adhikari_87?igsh=OHR3czAyazE1d2p0',
     },
@@ -34,21 +34,21 @@ const teams = {
     {
       name: '~Devansh Arya~',
       role: 'Full Stack Developer',
-      image: '/team/devansh.jpg',  // Updated image path
+      image: '/team/devansh.jpg',  // Corrected image path
       linkedin: 'https://www.linkedin.com/in/devansh-arya-415378305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
       instagram: 'https://www.instagram.com/devansh_arya021/profilecard/?igsh=MWkyMGZ5a3ZyYWFjaA== ',
     },
     {
       name: '~Shubhanshi Negi~',
       role: 'AI/ML Developer',
-      image: '/team/shubi.jpg',  // Updated image path
+      image: '/team/shubi.jpg',  // Corrected image path
       linkedin: 'https://www.linkedin.com/in/shubhanshi-negi-0a4352338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
       instagram: 'https://www.instagram.com/shubhanshi_negi16?igsh=YXc5c3Rja2FuOHp0',
     },
     {
       name: '~Ankit Bisht~',
       role: 'Object Detection and Hardware Developer',
-      image: '/team/ankit.jpg',  // Updated image path
+      image: '/team/ankit.jpg',  // Corrected image path
       linkedin: 'https://www.linkedin.com/in/ankit-bisht-8a0b372a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
       instagram: 'https://www.instagram.com/divya.adhikari_87?igsh=OHR3czAyazE1d2p0',
     },
@@ -208,7 +208,7 @@ const OurTeamPage = () => {
         title="Software Team"
         icon={<FaLaptopCode />}
         members={teams.software}
-        delayOffset={1.5}
+        delayOffset={1}
       />
     </motion.div>
   );
