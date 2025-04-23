@@ -9,7 +9,7 @@ const teams = {
     {
       name: '~Shriyukt Gupta~',
       role: 'Team Lead | AI/ML Developer',
-      image: '/team/shriyukt.jpg',  // Corrected image path
+      image: '/team/shri.jpg',  // Corrected image path
       linkedin: 'https://www.linkedin.com/in/shriyukt-gupta-12b665277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
       instagram: 'https://www.instagram.com/shriyuktt?igsh=djNtZHl0cW9oMTNj',
     },
