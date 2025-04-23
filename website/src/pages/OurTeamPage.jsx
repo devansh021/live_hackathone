@@ -220,4 +220,4 @@ const OurTeamPage = () => {
   );
 };
 
-export default OurTeamPage;
+export default OurTeamPage; 
